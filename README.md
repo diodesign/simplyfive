@@ -50,6 +50,7 @@ This is a work in progress. Here's what needs to be implemented:
   * More to add to this list...
 * Memory and register writeback
 * Register file
+* Handling data, control, and other hazards
 * CSRs
 * Exceptions and interrupts
 * PMP and MMU
